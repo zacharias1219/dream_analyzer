@@ -15,11 +15,17 @@ Gemini API Integration: Powered by Gemini API for language models, DreamAnalyzer
 ## How to Use
 
 Clone the repository to your local machine.
+
 Install the necessary dependencies using pip install -r requirements.txt.
+
 Run the Streamlit application using streamlit run app.py.
+
 Input your dream description in the provided text box and submit.
+
 View the generated emotional and mental analyses based on your dream description.
-Contributing:
+
+## Contributing
+
 Contributions to DreamAnalyzer are welcome! Whether it's adding new features, improving existing functionality, or fixing bugs, feel free to fork the repository and submit pull requests. Please ensure that your contributions align with the project's goals and follow the established coding standards.
 
 ## License
