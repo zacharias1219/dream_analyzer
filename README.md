@@ -1,4 +1,4 @@
-# dream_analyzer
+# Dream Analyzer
 
 ## Description
 
