@@ -48,7 +48,7 @@ submit_button = st.button("Analyze")
 
 if submit_button:
     prompt_parts = [
-        f"I need clearly understanding of the dreams that the user has given to you and give a emotional analysis and a mental analysis of the person. Don't give your own personal meaning of the dream just the analysis of what the condition of the person is.{dream_description}. At least 150 words for each sub heading. And also give a disclaimer at the end of the analysis.",
+        f"I need clearly understanding of the dreams that the user has given to you and give a emotional analysis and a mental analysis of the person. Don't give your own personal meaning of the dream just the analysis of what the condition of the person is.{dream_description}. At least 250 words for each sub heading. And also give a disclaimer at the end of the analysis.",
     ]
 
     response = model.generate_content(prompt_parts)
